@@ -1,0 +1,54 @@
+Difference Between List and Tuple
+What is Decorator? Explain it with example.
+Difference Between List Comprehension and Dict Comprehension
+How is Memory Managed In Python?
+Difference Between Generators and Iterators
+What is 'init' keyword in python?
+Difference Between Modules and Packages in Python
+Difference Between Range and Xrange?
+What are Generators. Explain it with example.
+What are inbuild data types available in Python -OR Explain Mutable and Immutable data Types
+
+Explain Ternary Operator in Python?
+What is Inheritance In Python
+Difference Between Local Variable and Global Variable in Python
+Explain Break, Continue and Pass Statement
+What is 'self' keyword in python?
+Difference Between Pickling and Unpickling?
+Explain Function of List, Set, Tuple or Dictionary?
+What are Python Iterators?
+Explain type conversion in python. (int(), float(), ord(), oct(), str(), hex(), eval() etc.)
+What does *args and **kwargs mean? expain
+What is "Open" and "With" statement in python?
+Different ways to read and write in a file in python?
+What is Pythonpath?
+How exception handled in Python. [Try, Except, Else And Finally Block]
+Difference Between Python 2.0 & Python 3.0
+What is PIP in python
+Where is Python used?
+How to use F string and format or replacement operator in Python?
+How to get list of all keys in a dictionary?
+Difference Between Abstration and Encapsulation.
+
+Does Python support multiple inheritence. (Diamond Problem)
+How to initialize empty List, Tuple, Dict or Set?
+What are .py and .pyc files in Python
+How slicing works in string manupulation. Explain [::-1]
+Can you concatenate two tuples? How is it even possible to concatenate two tuples, since Tuple is Immutable data type.
+Difference Between Python Arrays and Lists
+Difference Between a, __a, __a_ in python?
+How to read multiple value from single input? --- By Split()
+How to copy and delete a dictionary
+Difference Between Anonymous and Lambda function
+
+How to achieve Multiprocessing and Multithreading in python?
+What is GIL. Explain
+How class and object created in python?
+Explain Namespace and its types in python
+Explain Recursion by Reversing a list.
+What are Unittests in Python
+How to use Map, filter and reduce functions in python?
+Difference Between Shallow copy and deep copy
+How an object be copied in python
+What does term MONKEY PATCHING refer to in python?
+What is operator overloading & Dunder Method.
