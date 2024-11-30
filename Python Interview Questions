@@ -56,3 +56,54 @@ Difference Between Shallow copy and deep copy
 How an object be copied in python
 What does term MONKEY PATCHING refer to in python?
 What is operator overloading & Dunder Method.
+
+
+1.what is the command to install django? To know about it  version?
+2.what is the command to run a project  in django?
+3.wha is the command for migrations in django?
+4.what is the command to create superuser in django?
+5.what is the django to view  a database schema of an existing(or legacy) database?
+6.how to view all the items in the model using django queryset?
+7.how to filter items in the model using django queryset?
+8.how to delete/insert/update an object using queryset in django?
+9.how can you combine multiple queryserts in a view?
+10.exaplain django architecture? Explain model,view,templates ?
+11.what is the difference between project and application in django?
+12.which is the default database in the settings file in django?
+13.why is django called loosely coupled framework?
+14.which is the default port for the django development server?
+15.explain the migration in django?
+16.what is the django ORM?
+17.explain how you can set up the database in django?
+18.what do you mean by the CSRF token?
+19.what is a queryset in django?
+20.diffrence between select_related and prefetched_related in django?
+21.difference between Emp.objects.filter(),Emp.objects.get(),Emp.objects.all() in django queryset?
+22.which companies use Django?
+23.how static files are defined in Django? Explain its configuration and uses?
+24.what is the difference Flask,Django and Pyramid?
+25.give a bried about the Django Admin?
+26.what databases supported by Django?
+27.advantage and disadvantage in django?
+28.what is django shortcut method to more easily render an HTML response?
+29.differene between Authentication and Authorization in django?
+30.explain Q objects in Django?
+31.what is the significance of the manage.py file in django?
+32.what is the use of include function in the urls.py file in django?
+33.what does {% include %} do in django?
+34.what is Django Rest Framework(DRF)?
+35.what is a session in Django?
+36.what  are django signals?
+37.what is context in django?
+38.what are django exception?
+39.what happens if Myobject.objecs.get() is called with parameters that do not match existing item in the database?
+40.how to make a variable available to all the templates?
+41.difference between OneToOneField and ForeignKey in django?
+42.briefly explain django Field Class and its types?
+43.explain how you can use file-based-sessions?
+44.what is JINJA templating?
+45.what is serialization in django?
+46.why does django use Regular Expression to define URL’s? Is it necessary to use them?
+47.what is generic views?
+48.what is mixin?
+49.explain the caching strategies in django?
